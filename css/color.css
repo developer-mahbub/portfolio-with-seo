@@ -1,0 +1,21 @@
+.section-headline h2::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: -20px;
+  left: calc(50% - 60px);
+}
+
+.section-headline h2::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #3EC1D5;
+  bottom: -21px;
+  left: calc(50% - 20px);
+}
