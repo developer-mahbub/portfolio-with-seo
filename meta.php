@@ -4,9 +4,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- SEO Title & Description -->
-<title>Mahbub Muhammad | Freelance Full Stac Web Developer| Software Engineer | PHP, React & SQL, MySQL Developer</title>
+<title>Mahbub Muhammad | Freelance Full Stack Web Developer| Software Engineer | PHP, React & SQL, MySQL Developer</title>
 <meta name="description" content="Mahbub Muhammad is a freelance Web Developer, PHP Developer, React Developer, and MySQL expert. Available for hire to build fast, secure, and scalable web applications.">
-<meta name="keywords" content="Mahbub Muhammad, Mahbub, Muhammad,Freelance Web Developer, PHP Developer, React Developer, MySQL Developer, SQL Developer, Full Stack Developer, Hire Web Developer, Freelancer PHP React">
+<meta name="keywords" content="Mahbub Muhammad, Mahbub, Muhammad,Freelance Software Engineer, Web Developer, PHP Developer, React Developer, MySQL Developer, software Engineer, SQL Developer, Full Stack Developer, Hire Web Developer, Freelancer PHP React">
 <meta name="author" content="Mahbub Muhammad">
 <meta name="robots" content="index, follow">
 
