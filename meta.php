@@ -42,6 +42,7 @@
   "knowsAbout": [
     "PHP",
     "React",
+    "Software Engineer",
     "JavaScript",
     "SQL",
     "MySQL",
